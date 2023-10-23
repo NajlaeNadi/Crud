@@ -1,0 +1,17 @@
+.footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 20px;
+    
+    text-align: center;
+
+    color: rgb(172, 172, 172);
+    text-decoration: solid;
+}
+.icon-plus:before {
+    content: "\ea0a";
+  }
+  .icon-list2:before {
+    content: "\e9bb";
+  }
